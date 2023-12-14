@@ -40,7 +40,8 @@ As an **'ADMIN'**, he can check all products, modify, and delete each of them:
 
 To create a product, we get this message:
 
-![Create Product](<img width="1280" alt="captures:save-product" src="https://github.com/rifaielarbi/projet_angular/assets/153360442/2a5fb055-085a-4710-9c59-0828ac896fa5">
+![Create Product](<img width="1280" alt="captures:save-product" src="https://github.com/rifaielarbi/projet_angular/assets/153360442/d9608bf5-da01-462c-bb03-f876692d2953">
+
 )
 
 <br>
