@@ -32,7 +32,8 @@ The login page:
 
 As an **'ADMIN'**, he can check all products, modify, and delete each of them:
 
-![Admin Products](<img width="1280" alt="captures:admin-products" src="https://github.com/rifaielarbi/projet_angular/assets/153360442/472a3e46-6ebe-47e3-a0d1-d2552e7ca640">
+![Admin Products](<img width="1280" alt="captures:admin-products" src="https://github.com/rifaielarbi/projet_angular/assets/153360442/0865a412-03f3-46ce-a340-882d09a1e736">
+
 )
 
 <br>
