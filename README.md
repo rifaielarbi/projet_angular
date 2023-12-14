@@ -23,7 +23,8 @@ The JWT I created for admin with roles **'ADMIN'** and **'USER'**
 
 The login page:
 
-![Login Page](captures/login-page.jpg)
+![Login Page](<img width="1280" alt="captures:login-page" src="https://github.com/rifaielarbi/projet_angular/assets/153360442/f6cdf07f-1e5e-464e-b00c-d12b43b1b5a2">
+)
 
 <br>
 
