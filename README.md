@@ -32,31 +32,18 @@ The login page:
 
 As an **'ADMIN'**, he can check all products, modify, and delete each of them:
 
-![Admin Products](captures/admin-products.jpg)
+![Admin Products](<img width="1280" alt="captures:admin-products" src="https://github.com/rifaielarbi/projet_angular/assets/153360442/472a3e46-6ebe-47e3-a0d1-d2552e7ca640">
+)
 
 <br>
 
 To create a product, we get this message:
 
-![Create Product](captures/save-product.jpg)
+![Create Product](<img width="1280" alt="captures:save-product" src="https://github.com/rifaielarbi/projet_angular/assets/153360442/2a5fb055-085a-4710-9c59-0828ac896fa5">
+)
 
 <br>
 
 
-JWT created for user1 with role **'USER'**
-
-![User JWT](captures/user-jwt.jpg)
-
-<br>
-
-As a **'USER'**, he can only see the products:
-
-![User Products](captures/user-show.jpg)
-
-<br>
-
-Once the **'USER'** is trying to create a product, he gets this **"notAuthorized"** page:
-
-![Not Authorized](captures/not-authorized.jpg)
 
 
