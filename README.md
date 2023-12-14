@@ -15,7 +15,8 @@ This Angular project is a comprehensive web application that seamlessly integrat
 
 The JWT I created for admin with roles **'ADMIN'** and **'USER'**
 
-![Admin JWT](/Users/mac/Desktop/Capture d’écran 2023-12-14 à 19.50.38.png)
+![Admin JWT](<img width="1280" alt="Capture d’écran 2023-12-14 à 19 50 38" src="https://github.com/rifaielarbi/projet_angular/assets/153360442/beac8bc5-ad99-43b8-9637-8992f37d7c4f">
+)
 
 <br>
 
