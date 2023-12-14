@@ -15,7 +15,8 @@ This Angular project is a comprehensive web application that seamlessly integrat
 
 The JWT I created for admin with roles **'ADMIN'** and **'USER'**
 
-![Admin JWT](![Capture:jwt](<img width="1280" alt="captures:login-page" src="https://github.com/rifaielarbi/projet_angular/assets/153360442/c63ec985-70eb-4170-95fb-da99fe26becf">
+![Admin JWT](![Capture:jwt](![Capture:jwt](https://github.com/rifaielarbi/projet_angular/assets/153360442/39a051fe-a70c-4004-b009-daec93c214ff)
+
 
 )
 
@@ -23,7 +24,8 @@ The JWT I created for admin with roles **'ADMIN'** and **'USER'**
 
 The login page:
 
-![Login Page](<img width="1280" alt="captures:login-page" src="https://github.com/rifaielarbi/projet_angular/assets/153360442/f6cdf07f-1e5e-464e-b00c-d12b43b1b5a2">
+![Login Page](<img width="1280" alt="captures:login-page" src="https://github.com/rifaielarbi/projet_angular/assets/153360442/f6ef92ee-6434-4332-b025-7dde50adf07a">
+
 )
 
 <br>
